@@ -1,7 +1,7 @@
 # LightningAI Continual AI Template
 
 
-### Final Objective
+## Final Objective
 
 Create a [serverless](https://www.serverless.com/) deployement with the following structure.
 
