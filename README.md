@@ -3,7 +3,9 @@
 
 ## Final Objective
 
-Create a [serverless](https://www.serverless.com/) deployement with the following structure.
+Create a [serverless](https://www.serverless.com/) deployement with the following structure. 
+
+Lightning App can be an entire system or a micro system into larger one. This project is meant to demonstrate the later. 
 
 <img width="1234" alt="Screenshot 2022-07-11 at 11 02 09" src="https://user-images.githubusercontent.com/12861981/178240180-37a6e92a-2465-4ac6-a087-e7ef003d244a.png">
 
