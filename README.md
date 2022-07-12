@@ -1,7 +1,14 @@
-# LightningAI E2E Continual AI Emulator And Research Project 
+# LightningAI E2E Continual AI Emulator
 
+This project is a production-ready Research Emulator meant to demonstrate LightningAI can be used as one of the most SOTA ML System.
 
-## Final Objective
+# Objectives:
+
+* Create a production environment for developing new components and new strategies. 
+* Provide an advanced template for anyone to understand to build upon Lightning AI
+* Foster new research areas
+
+## V0 Archicture Objective
 
 Create a [serverless](https://www.serverless.com/) deployement with the following structure. 
 
