@@ -1,4 +1,4 @@
-# LightningAI Continual AI Template
+# LightningAI E2E Continual AI Emulator And Research Project 
 
 
 ## Final Objective
